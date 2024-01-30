@@ -1,0 +1,50 @@
+html{
+    margin: 0;
+}
+body{
+    background-color: bisque;
+    color: rgb(69, 10, 2);
+}
+
+.div1{
+    text-align: center;
+    margin: 150px auto 100px;
+    width: 80%;
+}
+
+span {
+    display: block;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+
+.h2_text{
+    color: rgb(243, 12, 31);
+    font-weight:bolder;
+    font-style: italic;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display:inline-block;
+    border-radius: 10px;
+  }
+
+  #Blue{
+    background: rgb(25, 220, 230);
+  }
+
+  #White{
+    background-color: rgb(255, 255, 255);
+  }
+
+  #Pink{
+    background: pink;
+  }
+
+  #orange{
+    background: rgb(248, 162, 3);
+  }
